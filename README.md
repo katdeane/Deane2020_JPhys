@@ -25,3 +25,8 @@ If animal raw data files are placed correctly in ../Deane2020_JPhys/Raw, running
 ___
 
 ***Please raise an issue in this repository if something is not running. Thank you!***
+
+___
+
+A clone has been created in the [CortXplorer Organization](https://github.com/CortXplorer/Deane2020_JPhys) 
+
